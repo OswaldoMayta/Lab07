@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // El correo electrónico es válido, puedes realizar alguna acción aquí
         echo "Correo electrónico válido: $email";
     }
-}
+}   
 ?>
 
 <h2>Formulario de Correo Electrónico</h2>
